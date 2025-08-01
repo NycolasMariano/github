@@ -10,7 +10,7 @@ namespace github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello word");
+            Console.WriteLine("Hello word New");
 
             Console.WriteLine("This is a test of the GitHub repository.");
         }
